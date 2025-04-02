@@ -6,12 +6,12 @@ body {
     color: #333;
 }
 .fullbody{
-       background:grey;
+       background:lavender;
 }
 .container {
     text-align: center;
     padding: 20px;
-    background: aqua;
+    background: pink;
     color: brown;
 }
 
