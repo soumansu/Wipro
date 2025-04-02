@@ -5,11 +5,13 @@ body {
     background-color: #f8f9fa;
     color: #333;
 }
-
+fullbody{
+       background-color: grey;
+}
 .container {
     text-align: center;
     padding: 20px;
-    background: lavender;
+    background: pink;
     color: brown;
 }
 
